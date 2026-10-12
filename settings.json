@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "soul-network.aternos.me",
-    "port": 40335,
+    "ip": "feuersmp.aternos.me",
+    "port": 46472,
     "version": "",
     "try-creative": false
   },
